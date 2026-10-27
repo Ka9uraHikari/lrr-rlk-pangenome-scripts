@@ -1,0 +1,26 @@
+Analysis scripts (curated key workflows)
+
+One script per analysis step referenced in the Methods, numbered in workflow order.
+Paths inside the scripts of the form /path/to/project are placeholders for the original working directory; portable count-matrix workflows are provided alongside this archive.
+
+00_hmm_lrr_rlk_search.sh — HMMER search defining the LRR-RLK membership (Methods 2.1-2.2)
+01_orthogroup_postprocess.py — Post-processing of OrthoFinder orthogroup results
+02_cdd_domain_matching.py — CDD kinase-domain matching and architecture filtering (Methods 2.2)
+03_ogg_category_classification.py — Core/Soft-core/Shell/Cloud OGG classification (Methods 2.3, Table S1)
+04_ogg_representative_sequences.py — Representative-sequence extraction per OGG
+05_copy_number_sensitivity.py — Copy-number classification and threshold-sensitivity assessment (Methods 2.3; response to Reviewer 3, comment 2)
+06_copy_number_group_statistics.py — Copy-number summary statistics across groups (Table S4 series)
+07_subfamily_ogg_distribution.py — Subfamily-level OGG distribution counts (Fig. 3)
+08_chromosomal_localization_inputs.py — Chromosomal localization input preparation (Fig. 4)
+09_dupgen_duplication_modes.sh — DupGen_finder duplication-mode workflow (Methods 2.5, Fig. 5)
+10_hite_te_annotation.sh — HiTE transposable-element annotation steps (Methods 2.6, Fig. 6)
+11_kaks_pairing.py — Ka/Ks pairing and per-OGG summary (Methods 2.7, Fig. 7)
+12_kaks_cds_extraction.sh — CDS extraction feeding the Ka/Ks workflow
+13_tpm_matrix_construction.py — TPM matrix construction from Salmon quantifications (Methods 2.8.1)
+14_deseq2_differential_expression.R — DESeq2 differential-expression workflow for the disease time courses (Methods 2.8.2, Fig. 8, Table S10)
+15_wgcna_modules.R — WGCNA module construction and membership (Methods 2.8.4, Fig. 11)
+16_temporal_response_profiling.R — maSigPro temporal-response profiling (Methods 2.8.2, Fig. 9)
+17_fst_pbs_selection_scans.sh — Windowed Fst and PBS selection scans (Methods 2.8.3, Fig. 13, Table S17)
+18_variant_effect_annotation.py — Coding-effect annotation of candidate-region variants (Methods 2.8.3)
+19_candidate_evidence_integration.py — Integrated candidate evidence matrix assembly (Methods 2.8.5, Table S19)
+20_go_kegg_enrichment.R — GO/KEGG enrichment of responsive members (Fig. 8, Table S12)
