@@ -15,3 +15,7 @@ The numbered scripts follow the workflow order of the paper's Methods section; `
 `count_matrix_deseq2.R` and `condition_adjusted_correlations.R` are self-contained workflows that run directly on the gene-count matrix and sample metadata in `data/`, together with the population-side evidence tables, the identifier crosswalk, the defense-marker list and the AT2G01210 reference sequence.
 
 Paths of the form `/path/to/project` and `/path/to/data` inside the scripts are placeholders for the original working directory and the external CDD database; adapt them to your own layout. Figure-generation code is retained by the authors and available on request.
+
+## Archives
+
+`archives/` contains the complete evidence packages: the phylogenetic inputs and outputs underlying Figure 12 (alignments, Newick tree, IQ-TREE reports), and the full primer-specificity analyses for the six original pairs and the junction-spanning pairs (reference manifests, complete genome/transcriptome/CDS predictions, and reproduction scripts).
