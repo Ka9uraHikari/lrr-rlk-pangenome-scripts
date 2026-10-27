@@ -16,10 +16,6 @@ The numbered scripts follow the workflow order of the paper's Methods section; `
 
 Paths of the form `/path/to/project` and `/path/to/data` inside the scripts are placeholders for the original working directory and the external CDD database; adapt them to your own layout. Figure-generation code is retained by the authors and available on request.
 
-## Archives
+## Archive
 
-`archives/` contains the complete evidence files, browsable directly:
-
-- `figure12_phylogeny/` — inputs, alignments, Newick tree and IQ-TREE reports underlying Figure 12
-- `primer_specificity_six_pairs/` — reference manifests, checksums and complete genome/transcriptome/CDS predictions for the six primer pairs in Table S20A
-- `primer_specificity_junction_spanning/` — Primer3 settings, design templates and complete predictions for the junction-spanning pairs in Table S20G–I
+`archives/figure12_phylogeny/` contains the inputs, alignments, Newick tree and IQ-TREE reports underlying Figure 12.
