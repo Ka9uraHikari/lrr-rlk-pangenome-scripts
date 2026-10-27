@@ -1,0 +1,142 @@
+Gene	ID system	AM716 member(s) in OGG	Subfamily	OGG	Significant disease time points	Strongest disease response	Max log2FC	Temporal pattern	Cold max log2FC	Heat max log2FC	Salt max log2FC	Missense variants	Fst Wild-Cultivar	Fst percentile in family	PBS (Wild)	Breadth >=7	Recorded stress response	Fst percentile >25	Screen outcome
+CsaV4_1G000094	CsaV4	AM716_1G00860.1	RLK-Pelle_LRR-XI-2	OG0000019	3.0	CC	2.3	sustained-high	2.92	-1.27	1.1					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G000133	CsaV4	AM716_1G01230.1	RLK-Pelle_LRR-XI-1	OG0000020	3.0	PM	-2.06	suppressed	ns	-1.17	-2.57					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G000224	CsaV4	AM716_1G02050.1	RLK-Pelle_LRR-XIIIa	OG0000021	3.0	PM	-1.72	suppressed	ns	1.75	-2.98					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G000281	CsaV4	AM716_1G02520.1	RLK-Pelle_LRR-Xb-2	OG0000022	4.0	ALS	2.61	sustained-high	2.39	1.1	4.5					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G000530	CsaV4	AM716_1G04660.1	RLK-Pelle_LRR-III	OG0000024	1.0	CC	-1.75	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G000790	CsaV4	AM716_1G06960.1	RLK-Pelle_LRR-III	OG0000025	2.0	PM	-1.72	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G000862	CsaV4	AM716_1G07580.1	RLK-Pelle_LRR-XIIIa	OG0000144	5.0	GM	-1.56	suppressed	ns	2.51	2.51					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G000937	CsaV4	AM716_1G08250.1	RLK-Pelle_LRR-XI-1	OG0000145	5.0	GM	1.43	sustained-high	ns	-1.48	-2.2					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G001021	CsaV4	AM716_1G09000.1	RLK-Pelle_LRR-VI-1	OG0000146	4.0	PM	-3.63	suppressed	ns	-2.52	-4.94					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G001063	CsaV4	AM716_1G09420.1	RLK-Pelle_LRR-XI-1	OG0000026	3.0	PM	-2.51	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G001337	CsaV4	AM716_1G12010.1	RLK-Pelle_LRR-XI-1	OG0000027	2.0	PM	-1.39	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G002104	CsaV4	AM716_1G17450.1	RLK-Pelle_LRR-VII-2	OG0000147	2.0	ALS	3.12	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G002267	CsaV4	AM716_1G17450.1	RLK-Pelle_LRR-VII-2	OG0000147	2.0	CC	-1.19	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G002285	CsaV4	AM716_1G17630.1;AM716_1G17840.1	RLK-Pelle_LRR-XII-1	OG0000001	4.0	PM	2.21	sustained-inducible	ns	ns	-2.42					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G002298	CsaV4	AM716_5G28130.1	RLK-Pelle_LRR-II	OG0000112	3.0	CC	-1.52	suppressed	ns	-1.76	-3.11					False	True	Not mapped	Below breadth cutoff
+CsaV4_1G002474	CsaV4	AM716_1G18930.1	RLK-Pelle_LRR-III	OG0000029	6.0	PM	-4.17	suppressed	ns	-1.52	-1.73	8.0	0.6444	75.1	0.6755	False	True	True	Below breadth cutoff
+CsaV4_1G002708	CsaV4	AM716_1G20990.1	RLK-Pelle_LRR-XII-1	OG0000031	2.0	CC	-1.3	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G002714	CsaV4	AM716_1G21050.1	RLK-Pelle_LRR-VII-2	OG0000177	7.0	GM	2.68	sustained-high	ns	-1.98	3.0	5.0	0.0988	4.5	0.0807	True	True	False	Below differentiation cutoff
+CsaV4_1G002719	CsaV4	AM716_1G21080.1	RLK-Pelle_LRR-VI-2	OG0000005	1.0	PM	-1.42	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_1G003027	CsaV4	AM716_1G23720.1	RLK-Pelle_LRR-III	OG0000032	6.0	PM	-1.64	suppressed	ns	ns	-3.3	14.0	0.7268	86.6	0.8283	False	True	True	Below breadth cutoff
+CsaV4_1G003303	CsaV4	AM716_1G26140.1	RLK-Pelle_LRR-XI-1	OG0000033	6.0	PM	3.28	sustained-high	2.56	ns	3.42	12.0	0.694	81.4	-0.2574	False	True	True	Below breadth cutoff
+CsaV4_1G003523	CsaV4	AM716_1G28350.1	RLK-Pelle_LRR-III	OG0000034	2.0	PM	-2.15	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_2G000001	CsaV4	AM716_2G00010.1	RLK-Pelle_LRR-III	OG0000178	5.0	GM	1.7	sustained-high	ns	-2.85	-2.06					False	True	Not mapped	Below breadth cutoff
+CsaV4_2G000152	CsaV4	AM716_2G01360.1	RLK-Pelle_LRR-III	OG0000036	3.0	PM	-3.06	suppressed	ns	1.09	1.75					False	True	Not mapped	Below breadth cutoff
+CsaV4_2G000992	CsaV4	AM716_2G09000.1	RLK-Pelle_LRR-XI-1	OG0000149	3.0	PM	-1.11	suppressed	ns	-2.38	-1.99					False	True	Not mapped	Below breadth cutoff
+CsaV4_2G001267	CsaV4	AM716_2G11200.1	RLK-Pelle_LRR-XIV	OG0000007	1.0	CC	1.03	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_2G002493	CsaV4	AM716_2G18500.1	RLK-Pelle_LRR-II	OG0000039	2.0	CC	-1.38	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_2G002660	CsaV4	AM716_2G20010.1	RLK-Pelle_LRR-XII-1	OG0000040	1.0	ALS	5.25	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_2G002661	CsaV4	AM716_2G20020.1	RLK-Pelle_LRR-XII-1	OG0000041	6.0	GM	6.43	sustained-high				7.0	0.6082	70.9	-0.4807	False	False	True	Below breadth cutoff
+CsaV4_2G002663	CsaV4	AM716_2G20030.1	RLK-Pelle_LRR-XII-1	OG0000042	8.0	GM	3.78	sustained-inducible	-1.92	ns	2.19	9.0	0.5949	67.8	-0.4247	True	True	True	Positive-response candidate; CR042
+CsaV4_2G002665	CsaV4	AM716_2G20040.1	RLK-Pelle_LRR-XII-1	OG0000043	3.0	PM	2.19	sustained-inducible	-2.01	-1.94	2.18					False	True	Not mapped	Below breadth cutoff
+CsaV4_2G002999	CsaV4	AM716_2G23000.1	RLK-Pelle_LRR-XI-1	OG0000045	3.0	CC	2.21	sustained-high	2.32	4.61	3.88					False	True	Not mapped	Below breadth cutoff
+CsaV4_2G003055	CsaV4	AM716_2G23510.1	RLK-Pelle_LRR-III	OG0000046	6.0	GM	2.66	sustained-high	ns	1.97	1.94	18.0	0.2116	23.8	0.2748	False	True	False	Below breadth cutoff
+CsaV4_2G003347	CsaV4	AM716_2G25940.1	RLK-Pelle_LRR-III	OG0000151	10.0	PM	4.01	sustained-inducible	1.81	6.23	4.23	17.0	0.7295	87.7	-0.0759	True	True	True	Positive-response candidate; focal characterization
+CsaV4_2G003383	CsaV4	AM716_2G26300.1	RLK-Pelle_LRR-VI-1	OG0000047	3.0	ALS	-1.05	suppressed	ns	-1.79	-2.25					False	True	Not mapped	Below breadth cutoff
+CsaV4_2G003509	CsaV4	AM716_2G27390.1	RLK-Pelle_LRR-III	OG0000048	1.0	PM	-1.43	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G000334	CsaV4	AM716_3G02960.1	RLK-Pelle_LRR-IV	OG0000152	4.0	CC	1.28	sustained-high	ns	-1.45	1.96					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G000351	CsaV4	AM716_3G03130.1	RLK-Pelle_LRR-VII-1	OG0000008	6.0	PM	-1.38	suppressed	-1.15	-1.96	-1.79					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G000663	CsaV4	AM716_3G05910.1	RLK-Pelle_LRR-XI-1	OG0000049	3.0	CC	-1.7	suppressed	1.02	ns	-2.11					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G000732	CsaV4	AM716_3G06490.1	RLK-Pelle_LRR-XI-1	OG0000050	1.0	GM	-1.03	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G001024	CsaV4	AM716_3G09140.1	RLK-Pelle_LRR-IV	OG0000153	6.0	CC	-2.48	suppressed	ns	-1.31	1.85					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G001185	CsaV4	AM716_3G10640.1	RLK-Pelle_LRR-XI-1	OG0000155	2.0	ALS	1.34	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G001664	CsaV4	AM716_3G14930.1	RLK-Pelle_LRR-XI-1	OG0000052	4.0	ALS	1.9	sustained-high	-1.52	-1.76	-1.71					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G001756	CsaV4	AM716_3G15800.1	RLK-Pelle_LRR-Xb-1	OG0000053	4.0	PM	-1.2	suppressed	ns	ns	-1.81					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G001893	CsaV4	AM716_3G16950.1	RLK-Pelle_LRR-III	OG0000054	5.0	PM	-1.95	suppressed	ns	-2.14	-3.0					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G002033	CsaV4	AM716_3G18090.1	RLK-Pelle_LRR-Xb-1	OG0000009	1.0	PM	1.18	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G002190	CsaV4	AM716_3G19380.1	RLK-Pelle_LRR-III	OG0000156	4.0	CC	1.73	sustained-high	ns	1.1	3.7					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G002276	CsaV4	AM716_3G20080.1	RLK-Pelle_LRR-III	OG0000055	3.0	GM	1.77	sustained-high	ns	-1.63	ns					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G002780	CsaV4	AM716_3G23650.1	RLK-Pelle_LRR-XI-1	OG0000056	3.0	PM	-2.43	suppressed	ns	-2.06	-3.54					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G002992	CsaV4	AM716_3G25190.1	RLK-Pelle_LRR-V	OG0000057	6.0	PM	-1.91	suppressed	ns	ns	-2.49	2.0	0.7901	92.9	1.2295	False	True	True	Below breadth cutoff
+CsaV4_3G003009	CsaV4	AM716_3G25270.1	RLK-Pelle_LRR-XI-1	OG0000157	4.0	GM	2.79	early-peak-decaying	4.34	-1.68	1.86					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G003209	CsaV4	AM716_3G26890.1	RLK-Pelle_LRR-VII-1	OG0000060	2.0	PM	-1.0	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G003251	CsaV4	AM716_3G27260.1	RLK-Pelle_LRR-III	OG0000061	5.0	PM	-1.26	suppressed	2.34	1.25	-1.25					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G003302	CsaV4	AM716_3G27690.1	RLK-Pelle_LRR-XII-1	OG0000159	2.0	ALS	2.09	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G003303	CsaV4	AM716_3G27700.1	RLK-Pelle_LRR-XII-1	OG0000187	5.0	PM	-2.11	suppressed	ns	-1.74	1.83					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G003305	CsaV4	AM716_3G27720.1	RLK-Pelle_LRR-XII-1	OG0000160	8.0	GM	-3.21	suppressed	ns	3.81	4.27	6.0	0.2411	30.6	0.1027	True	True	True	Screen survivor; suppressed profile
+CsaV4_3G003309	CsaV4	AM716_3G27730.1	RLK-Pelle_LRR-XII-1	OG0000161	4.0	CC	1.91	sustained-inducible	ns	-1.97	1.97					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G003464	CsaV4	AM716_3G29140.1	RLK-Pelle_LRR-I-1	OG0000062	2.0	PM	-1.04	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G003596	CsaV4	AM716_3G30310.1	RLK-Pelle_LRR-III	OG0000063	3.0	CC	1.3	sustained-high	ns	1.21	-1.27					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G003744	CsaV4	AM716_3G31470.1	RLK-Pelle_LRR-IX	OG0000064	2.0	CC	-1.68	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G003852	CsaV4	AM716_3G32460.1	RLK-Pelle_LRR-V	OG0000065	4.0	CC	-1.79	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G004401	CsaV4	AM716_3G37250.1	RLK-Pelle_LRR-I-1	OG0000068	5.0	ALS	6.19	sustained-inducible								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G004402	CsaV4	AM716_3G37260.1	RLK-Pelle_LRR-I-1	OG0000069	2.0	PM	-1.16	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_3G004404	CsaV4	AM716_3G37270.1	RLK-Pelle_LRR-I-1	OG0000070	5.0	PM	-4.31	suppressed	ns	-3.52	-2.5					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G004496	CsaV4	AM716_3G38190.1	RLK-Pelle_LRR-XIV	OG0000071	4.0	CC	2.36	sustained-inducible	ns	1.32	2.95					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G004713	CsaV4		RLK-Pelle_LRR-III	OG0000191	3.0	CC	1.5	sustained-high	ns	4.12	ns					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G004826	CsaV4	AM716_3G41130.1	RLK-Pelle_LRR-XI-1	OG0000162	4.0	PM	2.71	sustained-inducible	3.57	ns	2.36					False	True	Not mapped	Below breadth cutoff
+CsaV4_3G004827	CsaV4	AM716_3G41140.1	RLK-Pelle_LRR-XI-1	OG0000163	2.0	PM	2.01	sustained-inducible								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G000356	CsaV4	AM716_4G03280.1	RLK-Pelle_LRR-VII-1	OG0000073	5.0	PM	-1.62	suppressed	ns	-1.62	-2.22					False	True	Not mapped	Below breadth cutoff
+CsaV4_4G000406	CsaV4	AM716_4G03830.1	RLK-Pelle_LRR-XI-1	OG0000074	4.0	PM	-1.31	suppressed	ns	ns	-2.47					False	True	Not mapped	Below breadth cutoff
+CsaV4_4G000459	CsaV4	AM716_4G04350.1	RLK-Pelle_LRR-II	OG0000004	2.0	PM	2.11	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G000618	CsaV4	AM716_4G05770.1	RLK-Pelle_LRR-VI-2	OG0000076	2.0	PM	-1.2	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G000706	CsaV4	AM716_4G06660.1	RLK-Pelle_LRR-XIIIa	OG0000077	2.0	CC	-1.55	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G000844	CsaV4	AM716_4G07940.1	RLK-Pelle_LRR-II	OG0000183	1.0	CC	-1.56	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G000970	CsaV4	AM716_4G08840.1	RLK-Pelle_LRR-III	OG0000079	1.0	CC	1.02	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G001090	CsaV4	AM716_4G09740.1	RLK-Pelle_LRR-III	OG0000080	6.0	PM	-1.53	suppressed	ns	-1.41	-4.73	8.0	0.3216	39.0	0.2871	False	True	True	Below breadth cutoff
+CsaV4_4G001117	CsaV4	AM716_4G09940.1	RLK-Pelle_LRR-XI-1	OG0000081	2.0	PM	-1.93	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G001157	CsaV4	AM716_4G10190.1	RLK-Pelle_LRR-VI-1	OG0000082	2.0	CC	-1.81	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G002256	CsaV4	AM716_4G16710.1	RLK-Pelle_LRR-III	OG0000083	4.0	PM	-1.83	suppressed	ns	ns	-2.23					False	True	Not mapped	Below breadth cutoff
+CsaV4_4G002704	CsaV4	AM716_4G20720.1	RLK-Pelle_LRR-XI-1	OG0000086	3.0	GM	-1.43	suppressed	-1.17	ns	-2.28					False	True	Not mapped	Below breadth cutoff
+CsaV4_4G002859	CsaV4	AM716_4G22000.1	RLK-Pelle_LRR-II	OG0000165	3.0	PM	-1.42	suppressed	-1.18	-1.06	-1.57					False	True	Not mapped	Below breadth cutoff
+CsaV4_4G002864	CsaV4	AM716_4G22040.1	RLK-Pelle_LRR-II	OG0000087	7.0	PM	-5.02	suppressed	ns	3.09	4.23	12.0	0.2199	25.4	-0.0047	True	True	True	Screen survivor; suppressed profile
+CsaV4_4G002865	CsaV4	AM716_4G22050.1	RLK-Pelle_LRR-II	OG0000088	4.0	CC	1.75	sustained-inducible								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G002866	CsaV4	AM716_4G22060.1	RLK-Pelle_LRR-II	OG0000089	10.0	ALS	3.09	sustained-high	ns	-1.71	3.67	15.0	0.1775	17.0	0.138	True	True	False	Below differentiation cutoff
+CsaV4_4G002867	CsaV4	AM716_4G22070.1	RLK-Pelle_LRR-II	OG0000090	1.0	CC	1.02	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_4G003198	CsaV4	AM716_4G25050.1	RLK-Pelle_LRR-XIIIb	OG0000091	4.0	CC	-3.55	suppressed	ns	ns	-2.9					False	True	Not mapped	Below breadth cutoff
+CsaV4_4G003395	CsaV4	AM716_4G26720.1	RLK-Pelle_LRR-XIIIa	OG0000180	4.0	PM	-1.43	suppressed	ns	ns	-2.72					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G000073	CsaV4	AM716_5G00630.1	RLK-Pelle_LRR-III	OG0000092	3.0	CC	-1.71	suppressed	ns	1.15	1.23					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G000218	CsaV4	AM716_5G02000.1	RLK-Pelle_LRR-III	OG0000093	5.0	CC	-1.93	suppressed	ns	ns	-3.47					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G000294	CsaV4	AM716_5G02660.1	RLK-Pelle_LRR-VI-2	OG0000094	1.0	CC	-1.18	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G000525	CsaV4	AM716_5G04840.1	RLK-Pelle_LRR-XI-1	OG0000095	2.0	PM	1.63	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G000526	CsaV4	AM716_5G04860.1	RLK-Pelle_LRR-XI-1	OG0000096	7.0	PM	3.74	sustained-inducible	-1.43	-1.49	-1.45	19.0	0.3002	38.0	0.347	True	True	True	Positive-response candidate; focal characterization
+CsaV4_5G000549	CsaV4	AM716_5G05050.1	RLK-Pelle_LRR-IV	OG0000097	7.0	PM	-1.54	suppressed	ns	1.39	-3.24	12.0	0.3118	38.5	0.1532	True	True	True	Screen survivor; suppressed profile
+CsaV4_5G000846	CsaV4	AM716_5G07750.1	RLK-Pelle_LRR-VI-2	OG0000098	1.0	PM	1.04	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G000873	CsaV4	AM716_5G08020.1	RLK-Pelle_LRR-III	OG0000099	4.0	PM	-1.71	suppressed	ns	1.96	1.89					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G001184	CsaV4	AM716_5G09990.1	RLK-Pelle_LRR-XIIIb	OG0000100	5.0	PM	-4.02	suppressed	ns	ns	-6.62					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G001272	CsaV4	AM716_5G10720.1	RLK-Pelle_LRR-III	OG0000012	6.0	GM	1.44	sustained-high	ns	-3.13	-1.57	3.0	0.4433	50.5	0.2795	False	True	True	Below breadth cutoff
+CsaV4_5G001821	CsaV4	AM716_5G14700.1	RLK-Pelle_LRR-IX	OG0000103	3.0	CC	-2.41	suppressed	ns	-2.65	-3.41					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G001830	CsaV4	AM716_5G14770.1	RLK-Pelle_LRR-III	OG0000104	5.0	PM	2.81	sustained-inducible	ns	2.22	3.75					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G002211	CsaV4	AM716_5G17780.1	RLK-Pelle_LRR-IX	OG0000167	5.0	GM	-1.54	suppressed	ns	2.14	1.97					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G002310	CsaV4		RLK-Pelle_LRR-III	OG0000168	4.0	ALS	3.38	sustained-high	ns	-1.58	3.86					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G002473	CsaV4	AM716_5G20150.1	RLK-Pelle_LRR-III	OG0000106	4.0	PM	-2.35	suppressed	ns	ns	1.92					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G002498	CsaV4	AM716_5G20370.1	RLK-Pelle_LRR-I-1	OG0000107	1.0	ALS	-1.61	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G002687	CsaV4	AM716_5G22110.1	RLK-Pelle_LRR-VI-1	OG0000108	2.0	PM	-1.61	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G002807	CsaV4	AM716_5G23330.1	RLK-Pelle_LRR-II	OG0000109	3.0	PM	-1.29	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G002895	CsaV4	AM716_5G24090.1	RLK-Pelle_LRR-III	OG0000110	5.0	PM	-2.44	suppressed	ns	-1.66	-3.91					False	True	Not mapped	Below breadth cutoff
+CsaV4_5G002905	CsaV4	AM716_5G24190.1	RLK-Pelle_LRR-III	OG0000111	2.0	PM	-1.08	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_5G003362	CsaV4	AM716_5G28130.1	RLK-Pelle_LRR-II	OG0000112	2.0	CC	-2.55	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G000184	CsaV4	AM716_6G01610.1	RLK-Pelle_LRR-XII-1	OG0000003	5.0	CC	1.37	sustained-high	ns	-2.78	1.44					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G000241	CsaV4	AM716_6G02110.1	RLK-Pelle_LRR-VII-1	OG0000114	3.0	PM	-1.87	suppressed	ns	1.57	ns					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G000452	CsaV4	AM716_6G03930.1	RLK-Pelle_LRR-VI-1	OG0000116	5.0	CC	-1.92	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G000474	CsaV4	AM716_6G04110.1	RLK-Pelle_LRR-XI-1	OG0000014	5.0	CC	1.72	sustained-high	ns	2.14	3.05					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G000764	CsaV4	AM716_6G06840.1	RLK-Pelle_LRR-I-1	OG0000170	1.0	GM	-1.21	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G000947	CsaV4	AM716_6G08570.1	RLK-Pelle_LRR-IX	OG0000117	5.0	PM	-1.78	suppressed	ns	ns	-1.44					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G001126	CsaV4	AM716_6G10090.1	RLK-Pelle_LRR-III	OG0000118	3.0	CC	-1.86	suppressed	ns	ns	-2.52					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G001414	CsaV4	AM716_6G12690.1	RLK-Pelle_LRR-VI-2	OG0000181	2.0	PM	-1.47	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G002603	CsaV4	AM716_6G21840.1	RLK-Pelle_LRR-II	OG0000119	4.0	PM	-1.61	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G003168	CsaV4	AM716_6G27120.1	RLK-Pelle_LRR-III	OG0000017	5.0	GM	1.99	sustained-high	ns	-2.62	-2.87					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G003284	CsaV4	AM716_6G28170.1	RLK-Pelle_LRR-XI-1	OG0000121	3.0	PM	-2.1	suppressed	-1.46	-1.96	-3.19					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G003432	CsaV4	AM716_6G29530.1	RLK-Pelle_LRR-III	OG0000171	2.0	PM	-1.19	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G003540	CsaV4	AM716_6G30390.1	RLK-Pelle_LRR-VII-3	OG0000172	4.0	CC	-2.72	suppressed	-1.34	-2.51	-3.42					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G003823	CsaV4	AM716_6G33110.1	RLK-Pelle_LRR-V	OG0000122	4.0	CC	-1.79	suppressed	ns	1.11	-2.94					False	True	Not mapped	Below breadth cutoff
+CsaV4_6G003879	CsaV4	AM716_6G33610.1	RLK-Pelle_LRR-XI-1	OG0000123	2.0	PM	-5.66	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G003935	CsaV4	AM716_6G34140.1	RLK-Pelle_LRR-II	OG0000185	2.0	PM	-1.4	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_6G003999	CsaV4	AM716_6G34670.1	RLK-Pelle_LRR-XII-1	OG0000124	3.0	PM	-2.59	suppressed	ns	-2.8	2.23					False	True	Not mapped	Below breadth cutoff
+CsaV4_7G000352	CsaV4	AM716_7G02890.1	RLK-Pelle_LRR-XI-1	OG0000125	2.0	PM	1.65	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G000577	CsaV4	AM716_4G08800.1	RLK-Pelle_LRR-II	OG0000010	4.0	CC	2.42	sustained-inducible	ns	ns	1.75					False	True	Not mapped	Below breadth cutoff
+CsaV4_7G000599	CsaV4	AM716_7G05100.1	RLK-Pelle_LRR-XI-1	OG0000126	5.0	CC	4.3	sustained-high	6.17	5.6	4.36					False	True	Not mapped	Below breadth cutoff
+CsaV4_7G000704	CsaV4	AM716_7G06070.1	RLK-Pelle_LRR-XI-1	OG0000018	11.0	ALS	3.37	sustained-inducible	1.13	ns	2.71	15.0	0.5898	67.3	0.5051	True	True	True	Positive-response candidate; focal characterization
+CsaV4_7G001496	CsaV4	AM716_7G12100.1	RLK-Pelle_LRR-XI-1	OG0000130	2.0	CC	2.09	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G001588	CsaV4	AM716_7G12740.1	RLK-Pelle_LRR-XI-1	OG0000131	4.0	GM	-1.49	suppressed	ns	1.78	3.36					False	True	Not mapped	Below breadth cutoff
+CsaV4_7G001666	CsaV4	AM716_7G13560.1	RLK-Pelle_LRR-III	OG0000132	2.0	PM	-1.62	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G001689	CsaV4	AM716_7G13740.1	RLK-Pelle_LRR-I-1	OG0000133	4.0	ALS	2.73	sustained-high	ns	-1.32	-3.46					False	True	Not mapped	Below breadth cutoff
+CsaV4_7G001805	CsaV4	AM716_7G14690.1	RLK-Pelle_LRR-Xa	OG0000175	1.0	PM	1.27	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G002295	CsaV4	AM716_7G19050.1	RLK-Pelle_LRR-Xb-1	OG0000134	2.0	PM	1.47	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G002533	CsaV4	AM716_7G21190.1	RLK-Pelle_LRR-V	OG0000135	2.0	CC	-1.45	suppressed								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G002654	CsaV4	AM716_7G22260.1	RLK-Pelle_LRR-I-1	OG0000136	8.0	PM	5.19	sustained-high	-1.31	-2.44	3.95	5.0	0.7607	89.8	0.6748	True	True	True	Positive-response candidate; focal characterization
+CsaV4_7G002666	CsaV4	AM716_7G22340.1	RLK-Pelle_LRR-I-1	OG0000137	11.0	ALS	4.87	sustained-high	2.71	-2.79	-1.79	9.0	0.6507	76.2	0.6845	True	True	True	Positive-response candidate; focal characterization
+CsaV4_7G002667	CsaV4	AM716_7G22350.1	RLK-Pelle_LRR-I-1	OG0000138	8.0	ALS	2.67	sustained-high				7.0	0.6962	81.9	0.668	True	False	True	No recorded stress response
+CsaV4_7G002668	CsaV4	AM716_7G22360.1	RLK-Pelle_LRR-I-1	OG0000139	1.0	CC	1.09	sustained-high								False	False	Not mapped	Below breadth cutoff
+CsaV4_7G002672	CsaV4	AM716_7G22410.1	RLK-Pelle_LRR-I-1	OG0000143	1.0	PM	1.53	sustained-high								False	False	Not mapped	Below breadth cutoff
