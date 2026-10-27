@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Cucumber.CLv4.fa.gz",
+    "url": "http://www.cucumberdb.com/api/file/genome/Cucumber.CLv4.fa.gz",
+    "bytes": 82925691,
+    "md5": "f4930cde8f08fc2d1b68c29e336a2aca",
+    "catalog_md5": "f4930cde8f08fc2d1b68c29e336a2aca",
+    "accessed": "2026-10-26"
+  },
+  {
+    "file": "Cucumber.CLv4.gff3.gz",
+    "url": "http://www.cucumberdb.com/api/file/genome/Cucumber.CLv4.gff3.gz",
+    "bytes": 21355577,
+    "md5": "4c8b4b66fe595d3275216ddf0211d4e0",
+    "catalog_md5": "4c8b4b66fe595d3275216ddf0211d4e0",
+    "accessed": "2026-10-26"
+  },
+  {
+    "file": "Cucumber.CLv4.cds.fa.gz",
+    "url": "http://www.cucumberdb.com/api/file/genome/Cucumber.CLv4.cds.fa.gz",
+    "bytes": 17999233,
+    "md5": "5638eab46ededfcf253503d21e0b8885",
+    "catalog_md5": "5638eab46ededfcf253503d21e0b8885",
+    "accessed": "2026-10-26"
+  }
+]
